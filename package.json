@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kozlowskimichal/Sass_1projekt/issues"
   },
-  "homepage": "https://github.com/kozlowskimichal/Sass_1projekt#readme"
+  "homepage": "https://github.com/kozlowskimichal/Sass_1projekt#readme",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
 }
